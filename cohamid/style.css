@@ -93,8 +93,9 @@ h2
 }
 .f3
 {
-    padding: 0;
-    height: 320px;
+    margin-left: 10%;
+    height: 30%;
+    width: 40%;
     border-radius: 20px;
     border-radius: 10% / 50%;
     
@@ -102,7 +103,8 @@ h2
 .f4
 {
     padding: 0;
-    height: 320px;
+    height: 30%;
+    width: 40%;
     border-radius: 10% / 50%;
         margin-left: 20px;
 }
@@ -119,12 +121,14 @@ h2
 iframe
 {
     margin-left: 200px;
+    margin-left: 33%;
+
     /* border-radius: 150px / 50px; */
      border-radius: 10px 100px / 120px;
 }
 .fi
 {
-    margin-left: 200px;
+    margin-left: 33%;
     border-radius: 150px / 50px; 
 }
 #iran ul > li
